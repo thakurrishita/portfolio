@@ -43,7 +43,7 @@ The Emotion Detection System is a sophisticated tool designed to identify and an
 
 
 ## Resume
-[Rishita's Resume](https://drive.google.com/file/d/1g0nMx_PJpnndn1CVkFoGlJ9nFyFoe7rx/view?usp=drive_link)
+[Rishita's Resume](https://drive.google.com/file/d/1lQcowXDbTaZbZgRWbMmIXLckBlf2-KLb/view?usp=drivesdk)
 
 
 ## Connect with Me 📧
