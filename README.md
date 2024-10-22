@@ -1,4 +1,4 @@
-<h2> rishita's Portfolio </h2>
+<h2> Rishita's Portfolio </h2>
 
 ## About Me 
 
